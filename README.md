@@ -3,6 +3,7 @@
 
 ## Обо мне
 >Люблю жизнь и УрФУ
+
 ![Пушистые Котята](https://github.com/user-attachments/assets/19ae586b-d9ae-4869-96cb-8a2528a58953)
 
 ---
@@ -33,7 +34,7 @@
 | пт          | Инфа    |
 | сб          | Матеша  |
 
-##  :warning::+1:
+## Возьму у питона немного) :sunglasses:
 
 ```python
 import time
