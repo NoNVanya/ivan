@@ -3,7 +3,7 @@
 
 ## Обо мне
 >Люблю жизнь и УрФУ
-<img width="2560" height="1600" alt="image" src="https://ru.pinterest.com/pin/20899585766309815/" />
+<img width="1000" height="1000" alt="image" src="https://ru.pinterest.com/pin/20899585766309815/" />
 ---
 
 ##  Мои интересы
