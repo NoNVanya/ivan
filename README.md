@@ -3,7 +3,7 @@
 
 ## Обо мне
 >Люблю жизнь и УрФУ
-<img width="2560" height="1600" alt="image" src="[https://github.com/user-attachments/assets/583f1585-4dad-4195-bee9-6f56998d039e](https://avatars.mds.yandex.net/i?id=f301b206a5ef3409bfc130c8c3e3f34a_l-10650891-images-thumbs&n=13)" />
+<img width="2560" height="1600" alt="image" src="https://ru.pinterest.com/pin/20899585766309815/" />
 ---
 
 ##  Мои интересы
