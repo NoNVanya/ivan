@@ -3,7 +3,8 @@
 
 ## Обо мне
 >Люблю жизнь и УрФУ
-<img width="1000" height="1000" alt="image" src="https://ru.pinterest.com/pin/20899585766309815/" />
+![Пушистые Котята](https://github.com/user-attachments/assets/19ae586b-d9ae-4869-96cb-8a2528a58953)
+
 ---
 
 ##  Мои интересы
